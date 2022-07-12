@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+}
+body{
+    margin: 0;
+}
+#idselector{
+    color: rgb(255, 250, 250);
+    font-size: 20px;
+    
+}
+.Ul{
+    list-style: none;
+}
+.intro{
+    min-height: 100vh;
+    background:
+    url(../images/second.jpg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    flex-grow: 1;
+    
+}
+.typeclass{
+    color: blueviolet;
+    font-size: 20px;
+}
+h1{
+    color: rgb(140, 0, 255);
+}
+.input span{
+    color:blue;
+}
+.input{
+    color: rgb(59, 252, 0);
+    font-size: 20px;
+}
+.relacionado, .related{
+    color: yellowgreen;
+    font-size: 20px;
+}
